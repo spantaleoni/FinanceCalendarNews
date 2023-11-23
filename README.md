@@ -1,4 +1,3 @@
-# FinanceCalendarNews
 Finance Calendar Notifier
 
 This Python script provides a daily finance calendar report, including earnings, dividends, IPOs, splits, and dividend history. The script utilizes the finance_calendars library to fetch data and sends the results via Telegram for easy monitoring.
